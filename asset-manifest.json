@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.127c1dfa.chunk.css",
-    "main.js": "/static/js/main.65a00888.chunk.js",
-    "main.js.map": "/static/js/main.65a00888.chunk.js.map",
+    "main.js": "/static/js/main.890aaa96.chunk.js",
+    "main.js.map": "/static/js/main.890aaa96.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.63ff5a51.js",
     "runtime-main.js.map": "/static/js/runtime-main.63ff5a51.js.map",
     "static/js/2.7a0b7aaf.chunk.js": "/static/js/2.7a0b7aaf.chunk.js",
     "static/js/2.7a0b7aaf.chunk.js.map": "/static/js/2.7a0b7aaf.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.7899678cf91d7475b6606c0a50f638d1.js": "/precache-manifest.7899678cf91d7475b6606c0a50f638d1.js",
+    "precache-manifest.d13fdd824248abdd827d7694b4df33cb.js": "/precache-manifest.d13fdd824248abdd827d7694b4df33cb.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.127c1dfa.chunk.css.map": "/static/css/main.127c1dfa.chunk.css.map",
     "static/js/2.7a0b7aaf.chunk.js.LICENSE.txt": "/static/js/2.7a0b7aaf.chunk.js.LICENSE.txt",
@@ -16,12 +16,12 @@
     "static/media/Image2.jpeg": "/static/media/Image2.a8d808a0.jpeg",
     "static/media/Image3.jpeg": "/static/media/Image3.aea10c32.jpeg",
     "static/media/Image4.jpeg": "/static/media/Image4.e23ad8bb.jpeg",
+    "static/media/lake1.png": "/static/media/lake1.bd7be274.png",
+    "static/media/lake2.png": "/static/media/lake2.28dadec3.png",
+    "static/media/lake3.png": "/static/media/lake3.46ec498d.png",
     "static/media/mansion1.png": "/static/media/mansion1.80952b05.png",
     "static/media/mansion2.png": "/static/media/mansion2.d938f227.png",
     "static/media/mansion3.png": "/static/media/mansion3.2e4f1e0f.png",
-    "static/media/mansionslide1.png": "/static/media/mansionslide1.1f16692b.png",
-    "static/media/mansionslide2.png": "/static/media/mansionslide2.473465d7.png",
-    "static/media/mansionslide3.png": "/static/media/mansionslide3.92c8581b.png",
     "static/media/mansionsmall1.jpg": "/static/media/mansionsmall1.bd7eed8c.jpg",
     "static/media/mansionsmall2.jpg": "/static/media/mansionsmall2.3f34dfba.jpg",
     "static/media/mansionsmall3.jpg": "/static/media/mansionsmall3.61b6a002.jpg",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.63ff5a51.js",
     "static/js/2.7a0b7aaf.chunk.js",
     "static/css/main.127c1dfa.chunk.css",
-    "static/js/main.65a00888.chunk.js"
+    "static/js/main.890aaa96.chunk.js"
   ]
 }
